@@ -5,6 +5,7 @@ image: assets/images/zuoqu_1.jpeg
 featured: true
 ---
 
+*"编者按：大山里的彝族姑娘 -> 强棒基地的第一批女队员 -> 中国第一支女棒球队成员 -> 未来可期"*
 
 ### 强棒及大凉山女子棒球队
 
