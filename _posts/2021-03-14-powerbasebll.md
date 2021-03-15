@@ -124,7 +124,7 @@ image: assets/images/team.jpeg
 
 <div align=center><img width="720" height="500" src="https://tva1.sinaimg.cn/large/e6c9d24ely1gol3scbxwjj20fa0bf12j.jpg"/></div>
 
-⚾️⚾️⚾️⚾️⚾️⚾️⚾️⚾️⚾️⚾️⚾️⚾️⚾️⚾️⚾️⚾️⚾️⚾️⚾️⚾️⚾️⚾️⚾️⚾️⚾️⚾️⚾️⚾️⚾️⚾️⚾️⚾️⚾️⚾️⚾️⚾️⚾️⚾️⚾️⚾️⚾️⚾️⚾️⚾️⚾️⚾️⚾️
+---
 >
 >***官方微博：***[强棒天使队](https://weibo.com/PBangels)
 >
