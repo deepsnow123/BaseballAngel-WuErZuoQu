@@ -27,8 +27,6 @@ featured: true
 吾尔作曲是很乖很懂事的孩子，她每天都会按时完成作业。在练习过程中，教练会批评，会指出错误，她知道那是为了她好，她会记在心里，接受这些指正，让自己更好的成长。这样的孩子，让我们都多多关注，尽力资助，帮助她们更好地成长，让我们拭目以待。
 <div align=center><img width="720" height="500" src="https://tva1.sinaimg.cn/large/e6c9d24ely1gokefdigujj20k00dcgpt.jpg"/></div>
 
-![吾尔作曲棒球](../assets/images/吾尔作曲棒球.jpeg)
-
 -----
 >***资料来源：***：
 >
