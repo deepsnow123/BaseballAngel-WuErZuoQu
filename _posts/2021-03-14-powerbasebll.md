@@ -2,7 +2,6 @@
 layout: post
 title:  "强棒天使队项目简介"
 image: assets/images/team.jpeg
-featured: true
 ---
 
 # 强棒天使项目
