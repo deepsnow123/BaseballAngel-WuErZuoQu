@@ -95,7 +95,7 @@ featured: true
 
 
 
-​                                     **强棒天使队重要战绩（2016-2019年度）**
+<p align="left">**强棒天使队重要战绩（2016-2019年度）**</p>
 
 
 
@@ -122,4 +122,13 @@ featured: true
 | 2019.10 | PONY中国区棒球联赛                                     | U10     | 冠军   |
 | 2019.10 | PONY中国区棒球联赛                                     | U12     | 季军   |
 | 2019.12 | 第三界“海峡杯”学生棒球联赛总决赛                       | U10     | 季军   |
+
+<div align=center><img width="720" height="500" src="https://tva1.sinaimg.cn/large/e6c9d24ely1gol3scbxwjj20fa0bf12j.jpg"/></div>
+
+⚾️⚾️⚾️⚾️⚾️⚾️⚾️⚾️⚾️⚾️⚾️⚾️⚾️⚾️⚾️⚾️⚾️⚾️⚾️⚾️⚾️⚾️⚾️⚾️⚾️⚾️⚾️⚾️⚾️⚾️⚾️⚾️⚾️⚾️⚾️⚾️⚾️⚾️⚾️⚾️⚾️⚾️⚾️⚾️⚾️⚾️⚾️
+>
+>***官方微博：***[强棒天使队](https://weibo.com/PBangels)
+>
+>***公众号：强棒天使队（powerballangels）***
+
 
